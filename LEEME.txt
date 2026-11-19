@@ -1,0 +1,2 @@
+FOTOGRAFIA: coloca la imagen con el nombre exacto paty.png junto a index.html, styles.css y script.js.
+No cambies la ruta ./paty.png del HTML. Sube todos los archivos directamente a la raiz del repositorio GitHub.
